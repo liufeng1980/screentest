@@ -12,4 +12,6 @@ public class abc {
     private int myabc = 20;
 
     private int age = 25;
+
+    private int score;
 }
