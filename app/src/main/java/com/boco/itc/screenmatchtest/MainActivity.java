@@ -15,6 +15,9 @@ public class MainActivity extends AppCompatActivity  {
 
     TextView mTextView;
 
+    /**
+     * 添加
+     */
     CustomPopupWindow myPopup;
     MyThread myThread;
 
