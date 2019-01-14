@@ -14,4 +14,6 @@ public class abc {
     private int age = 25;
 
     private int score;
+
+    private String name;
 }
